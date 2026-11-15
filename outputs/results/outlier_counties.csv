@@ -1,0 +1,71 @@
+County,Total_EVs,BEV_Proportion,Avg_Electric_Range,Unique_Makes,IQR_Outlier,ZScore_Outlier,IF_Outlier,LOF_Outlier,Methods_Flagged
+King,133815,0.8183,38.69,44,True,True,True,True,4
+Spokane,7652,0.7162,37.94,38,True,True,True,False,3
+Benton,3827,0.7452,48.71,38,True,True,True,False,3
+Clark,16694,0.7576,39.91,40,True,True,True,False,3
+Snohomish,33766,0.8398,36.15,40,True,True,True,False,3
+Thurston,9911,0.7705,42.91,37,True,True,True,False,3
+Kitsap,9116,0.7666,41.78,37,True,True,True,False,3
+Pierce,22238,0.7824,39.76,38,True,True,True,False,3
+Whatcom,6664,0.7586,45.84,40,True,True,True,False,3
+Skagit,3194,0.774,45.6,37,True,True,False,False,2
+San Juan,1252,0.7804,61.69,32,True,False,True,False,2
+Penobscot,1,0.0,6.0,1,False,True,True,False,2
+Lewis,1240,0.6339,42.63,30,True,False,True,False,2
+Ocean,1,1.0,259.0,1,False,True,False,False,1
+Norfolk,3,1.0,0.0,1,False,False,False,True,1
+Pima,2,1.0,0.0,2,False,False,False,True,1
+Multnomah,12,0.75,25.0,7,True,False,False,False,1
+Okanogan,404,0.7079,46.26,26,True,False,False,False,1
+Mason,1369,0.7553,45.92,33,True,False,False,False,1
+Orange,21,0.7619,59.9,8,True,False,False,False,1
+Pacific,338,0.6213,38.7,27,True,False,False,False,1
+Pend Oreille,97,0.7526,37.15,19,True,False,False,False,1
+San Diego,28,0.6786,26.89,9,True,False,False,False,1
+Providence,1,1.0,84.0,1,False,True,False,False,1
+Riverside,14,0.7857,43.5,5,True,False,False,False,1
+Rockingham,4,1.0,0.0,2,False,False,False,True,1
+San Bernardino,6,0.8333,5.33,3,False,False,False,True,1
+Lincoln,79,0.6076,49.68,18,True,False,False,False,1
+Santa Clara,21,0.9048,37.52,7,True,False,False,False,1
+Skamania,272,0.7684,48.49,21,True,False,False,False,1
+Stevens,355,0.6789,39.79,26,True,False,False,False,1
+Wahkiakum,94,0.6915,80.36,15,True,False,False,False,1
+Walla Walla,753,0.6879,48.43,25,True,False,False,False,1
+Washington,4,1.0,0.0,2,False,False,False,True,1
+Whitman,544,0.693,36.26,25,True,False,False,False,1
+Yakima,1897,0.7232,47.81,36,True,False,False,False,1
+Los Angeles,13,0.6154,55.15,7,True,False,False,False,1
+Adams,118,0.7712,47.59,18,True,False,False,False,1
+Lexington,1,1.0,308.0,1,False,True,False,False,1
+Alameda,9,0.8889,2.33,4,False,False,False,True,1
+Allegheny,2,1.0,0.0,2,False,False,False,True,1
+Anne Arundel,12,0.8333,39.33,7,True,False,False,False,1
+Asotin,114,0.6842,42.61,20,True,False,False,False,1
+Bannock,1,1.0,291.0,1,False,True,False,False,1
+Beaufort,1,1.0,84.0,1,False,True,False,False,1
+Bernalillo,1,1.0,291.0,1,False,True,False,False,1
+Burlington,2,0.0,30.0,2,False,False,True,False,1
+Carroll,1,0.0,19.0,1,False,True,False,False,1
+Centre,1,1.0,266.0,1,False,True,False,False,1
+Chelan,1708,0.805,46.54,31,True,False,False,False,1
+Clackamas,5,1.0,47.6,4,False,False,False,True,1
+Clallam,1649,0.7071,45.88,31,True,False,False,False,1
+Columbia,27,0.8519,45.15,13,True,False,False,False,1
+Cowlitz,1424,0.7563,43.01,34,True,False,False,False,1
+Denver,2,1.0,0.0,2,False,False,False,True,1
+Douglas,606,0.797,45.15,30,True,False,False,False,1
+Duval,8,0.875,2.62,6,False,False,False,True,1
+El Paso,21,0.619,50.57,9,True,False,False,False,1
+Fairfax,25,0.76,62.8,9,True,False,False,False,1
+Ferry,49,0.7551,69.04,9,True,False,False,False,1
+Franklin,1159,0.7886,57.24,29,True,False,False,False,1
+Grant,1082,0.7329,42.55,32,True,False,False,False,1
+Grays Harbor,1042,0.7044,44.07,32,True,False,False,False,1
+Harford,5,1.0,0.0,2,False,False,False,True,1
+Island,2979,0.7566,46.11,38,True,False,False,False,1
+Jefferson,1438,0.7385,49.22,32,True,False,False,False,1
+Kittitas,1024,0.8086,42.65,31,True,False,False,False,1
+Klickitat,480,0.7229,44.28,27,True,False,False,False,1
+Lake,7,0.8571,3.29,3,False,False,False,True,1
+Yolo,1,1.0,266.0,1,False,True,False,False,1
